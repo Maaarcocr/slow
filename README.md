@@ -1,5 +1,5 @@
 # slow
-An HTTP Server made in Rust for fun.
+An HTTP Library made in Rust for fun.
 ## Why I created this library
 I have created this library because I wanted to learn how an http server works and how people make new ones. I have not created this with the aim of substituting Hyper or any other Rust HTTP library. It's mainly an educational project.
 ## Source of Inspiration
